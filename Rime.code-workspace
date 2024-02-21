@@ -14,6 +14,9 @@
 			"**/Thumbs.db": true,
 			"**/*.code-workspace": true
 		},
-		"explorerExclude.backup": {}
+		"explorerExclude.backup": {},
+		"cSpell.words": [
+			"wongdean"
+		]
 	}
 }
