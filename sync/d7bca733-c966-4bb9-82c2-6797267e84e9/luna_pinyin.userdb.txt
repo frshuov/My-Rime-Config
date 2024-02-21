@@ -1,0 +1,73 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	32
+#@/user_id	d7bca733-c966-4bb9-82c2-6797267e84e9
+an sai 	安塞	c=0 d=0.1 t=16
+an sai kuang feng 	安塞狂風	c=1 d=1 t=17
+ban ben kong zhi 	版本控制	c=2 d=1.99501 t=24
+bian ma 	編碼	c=1 d=1 t=14
+bu neng 	不能	c=1 d=1 t=18
+bu shi 	不是	c=1 d=1 t=20
+bu shi ren 	不是人	c=1 d=1 t=13
+chi zi qin 	遲子欽	c=3 d=2.98506 t=6
+chuan zhuan 	船專	c=1 d=1 t=7
+dan 	但	c=1 d=1 t=15
+de 	的	c=0 d=0.297516 t=18
+duan yi hang 	段毅航	c=1 d=1 t=21
+fang shuo fan 	方铄凡	c=1 d=1 t=1
+gong neng 	功能	c=0 d=0.1 t=17
+gong zuo 	工作	c=0 d=0.1 t=20
+gong zuo qu 	工作區	c=2 d=1.99501 t=22
+jian 	兼	c=1 d=1 t=29
+jing long a 	景龍啊	c=1 d=1 t=14
+kai fa 	開發	c=0 d=0.1 t=28
+kai fa yi kuan 	開發一款	c=1 d=1 t=29
+kuang feng 	狂風	c=0 d=0.1 t=16
+la ji hui shou 	垃圾回收	c=1 d=1 t=25
+lan ze 	兰泽	c=0 d=0.1 t=18
+lan ze yu 	兰泽宇	c=1 d=1 t=19
+le 	了	c=1 d=1 t=16
+li ke qiang 	李克強	c=1 d=1 t=23
+li zhan shu 	栗战书	c=1 d=1 t=24
+pi nun 	皮嫩	c=1 d=1 t=20
+pian yi 	便宜	c=0 d=0.1 t=18
+pian yi de 	便宜的	c=1 d=1 t=19
+qi 	器	c=1 d=1.09802 t=30
+qu 	區	c=0 d=0.1 t=20
+ru he 	如何	c=1 d=1 t=28
+shi pin 	視頻	c=1 d=1 t=13
+shi yong 	使用	c=0 d=0.1 t=16
+shuang pin 	雙拼	c=2 d=1.99501 t=3
+wang hu ning 	王沪宁	c=1 d=1 t=26
+wang pang qing tou 	王旁青頭	c=1 d=1 t=28
+wang yang 	汪洋	c=1 d=1 t=25
+wei shen me 	爲什麼	c=1 d=1.07531 t=14
+wei shen me zhong guo 	爲什麼中國	c=1 d=1 t=15
+wo bu shi ren 	我不是人	c=3 d=2.98506 t=11
+wo shi 	我是	c=0 d=0.1 t=6
+wo shi yi ge 	我是一個	c=1 d=1 t=7
+wu yi 	五一	c=1 d=1 t=30
+xi jin ping 	習近平	c=1 d=1 t=22
+xiang mu guan li 	項目管理	c=1 d=1.1 t=26
+xiang mu guan li qi 	項目管理器	c=1 d=1 t=27
+xiao bing 	小冰	c=1 d=1 t=8
+xiao gong 	宵宮	c=1 d=1 t=12
+yao 	要	c=0 d=0.1 t=16
+yao zuo 	要做	c=1 d=1.0802 t=15
+yao zuo zi ji de 	要做自己的	c=1 d=1 t=16
+yi ding 	一定	c=0 d=0.1 t=16
+yi ding yao shi yong de 	一定要使用的	c=1 d=1 t=17
+yi ge 	一個	c=0 d=0.1 t=6
+yi kuan 	一款	c=0 d=0.1 t=28
+yi yi lie ju 	一一列舉	c=1 d=1 t=8
+yin cang 	隱藏	c=0 d=0.1 t=17
+yin cang gong neng 	隱藏功能	c=1 d=1 t=18
+yu 	宇	c=0 d=0.1 t=18
+zhao le ji 	赵乐际	c=1 d=1 t=27
+zhi zuo 	製作	c=1 d=1 t=31
+zhong guo 	中國	c=1 d=1.0802 t=14
+zhong wen 	中文	c=1 d=1 t=32
+zi ji 	自己	c=0 d=0.1 t=15
+zi ji de 	自己的	c=1 d=1 t=12

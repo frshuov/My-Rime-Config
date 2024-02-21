@@ -1,0 +1,20 @@
+# Rime user dictionary
+#@/db_name	frshuov.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	10
+#@/user_id	d7bca733-c966-4bb9-82c2-6797267e84e9
+ce shi 	測試	c=0 d=0.1 t=6
+jiao shi 	教師	c=0 d=0.1 t=4
+jiao shi zi ge zheng 	教師資格證	c=1 d=1 t=5
+lang song 	朗誦	c=1 d=1 t=9
+ni hao 	你好	c=1 d=1 t=4
+pi fu 	皮膚	c=1 d=1 t=2
+pu tong hua 	普通話	c=1 d=1 t=6
+qiang 	腔	c=1 d=1 t=10
+shui ping 	水平	c=0 d=0.1 t=6
+shui ping ce shi 	水平測試	c=1 d=1 t=7
+wo jiao 	我叫	c=1 d=1 t=3
+yong 	用	c=1 d=1 t=8
+zhu ti 	主題	c=1 d=1 t=1
+zi ge zheng 	資格證	c=0 d=0.1 t=4
