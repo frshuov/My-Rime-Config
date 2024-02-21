@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Rime::SwitcherSettings"
-  modified_time: "Thu Jul 27 15:34:07 2023"
+  modified_time: "Thu Feb 22 04:42:03 2024"
   rime_version: 1.5.3
 patch:
   ascii_composer:
@@ -20,7 +20,8 @@ patch:
     - {schema: double_pinyin_flypy}
     - {schema: luna_pinyin}
     - {schema: wubi_pinyin}
-    - {schema: ipa_yunlong}
+    - {schema: ipa_xsampa}
+    - {schema: tupa}
   "switcher/hotkeys":
     - "Control+grave"
   "switcher/save_options":

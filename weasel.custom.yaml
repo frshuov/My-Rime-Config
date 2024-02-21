@@ -2,7 +2,7 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.14.3
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Sat Nov 12 18:19:28 2022"
+  modified_time: "Thu Feb 22 04:42:10 2024"
   rime_version: 1.5.3
 patch:
   "app_options/findandrunrobot.exe":
