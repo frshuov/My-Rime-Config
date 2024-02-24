@@ -1,10 +1,17 @@
+# Gitignore file for the configuration directory
+
+# ignore temporary files
 *~
 .*~
-/build/*
+# macOS specific files
+**/.DS_Store
+**/._*
+
+# ignore build files
+build/
+
+# ignore platform specific files
 /user.yaml
 /installation.yaml
-opencc/.DS_Store
-.DS_Store
-**/._*
+*.userdb/
 test.txt
-*.userdb
