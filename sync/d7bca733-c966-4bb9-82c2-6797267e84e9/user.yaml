@@ -1,7 +1,9 @@
 var:
-  last_build_time: 1668248369
-  previously_selected_schema: luna_pinyin
+  last_build_time: 1708976966
+  previously_selected_schema: double_pinyin_flypy
   schema_access_time:
-    double_pinyin_flypy: 1668251740
-    luna_pinyin: 1668251835
+    double_pinyin_flypy: 1708977021
+    ipa_xsampa: 1708977015
+    japanese: 1668657998
+    luna_pinyin: 1676965113
     wubi_pinyin: 1668231531

@@ -4,184 +4,184 @@
 #@/rime_version	1.7.3
 #@/tick	72
 #@/user_id	d7bca733-c966-4bb9-82c2-6797267e84e9
-a 	工	c=1 d=1 t=27
-aaaa 	工	c=1 d=1 t=52
-b 	了	c=1 d=1 t=44
-bbbb 	子	c=1 d=1 t=69
-c 	以	c=1 d=1 t=46
-cccc 	又	c=1 d=1 t=71
-d 	在	c=1 d=1 t=25
-dddd 	大	c=1 d=1 t=50
-dhf 	在	c=1 d=1 t=5
-dhk 	丰	c=1 d=1 t=4
-e 	有	c=2 d=1.86502 t=35
-eeee 	月	c=1 d=1 t=60
-f 	地	c=1 d=1 t=24
-ffff 	土	c=1 d=1 t=49
-g 	一	c=1 d=1 t=23
-gggg 	王	c=1 d=1 t=48
-h 	上	c=1 d=1 t=28
-hhhh 	目	c=1 d=1 t=53
-i 	不	c=1 d=1 t=40
-igfj 	清朝	c=1 d=1 t=2
-iii 	水	c=1 d=1 t=65
-j 	是	c=1 d=1 t=29
-jjjj 	日	c=1 d=1 t=54
-js 	果	c=1 d=1 t=3
-k 	中	c=1 d=1 t=30
-kkkk 	口	c=1 d=1 t=55
-l 	国	c=1 d=1 t=31
-llll 	田	c=1 d=1 t=56
-m 	同	c=1 d=1 t=32
-mmmm 	山	c=1 d=1 t=57
-n 	民	c=1 d=1 t=43
-nnnn 	已	c=1 d=1 t=68
-o 	为	c=1 d=1 t=41
-oooo 	火	c=1 d=1 t=66
-p 	这	c=1 d=1 t=42
-pppp 	之	c=1 d=1 t=67
-q 	我	c=1 d=1 t=37
-qqqq 	金	c=1 d=1 t=62
-r 	的	c=1 d=1 t=34
-rrrr 	白	c=1 d=1 t=59
-s 	要	c=1 d=1 t=26
-ssss 	木	c=1 d=1 t=51
-t 	和	c=1 d=1 t=33
-tttt 	禾	c=1 d=1 t=58
-u 	产	c=1 d=1 t=39
-uuuu 	立	c=1 d=1 t=64
-v 	发	c=1 d=1 t=45
-vvvv 	女	c=1 d=1 t=70
-w 	人	c=1 d=1 t=36
-wwww 	人	c=1 d=1 t=61
-x 	经	c=1 d=1 t=47
+a 	工	c=1 d=0.798516 t=72
+aaaa 	工	c=1 d=0.904837 t=72
+b 	了	c=1 d=0.869358 t=72
+bbbb 	子	c=1 d=0.985112 t=72
+c 	以	c=1 d=0.878095 t=72
+cccc 	又	c=1 d=0.995012 t=72
+d 	在	c=1 d=0.790571 t=72
+dddd 	大	c=1 d=0.895834 t=72
+dhf 	在	c=1 d=0.715338 t=72
+dhk 	丰	c=1 d=0.71177 t=72
+e 	有	c=2 d=1.55003 t=72
+eeee 	月	c=1 d=0.941765 t=72
+f 	地	c=1 d=0.786628 t=72
+ffff 	土	c=1 d=0.891366 t=72
+g 	一	c=1 d=0.782705 t=72
+gggg 	王	c=1 d=0.88692 t=72
+h 	上	c=1 d=0.802519 t=72
+hhhh 	目	c=1 d=0.909373 t=72
+i 	不	c=1 d=0.852144 t=72
+igfj 	清朝	c=1 d=0.704688 t=72
+iii 	水	c=1 d=0.965605 t=72
+j 	是	c=1 d=0.806541 t=72
+jjjj 	日	c=1 d=0.913931 t=72
+js 	果	c=1 d=0.70822 t=72
+k 	中	c=1 d=0.810584 t=72
+kkkk 	口	c=1 d=0.918512 t=72
+l 	国	c=1 d=0.814647 t=72
+llll 	田	c=1 d=0.923116 t=72
+m 	同	c=1 d=0.818731 t=72
+mmmm 	山	c=1 d=0.927743 t=72
+n 	民	c=1 d=0.865022 t=72
+nnnn 	已	c=1 d=0.980199 t=72
+o 	为	c=1 d=0.856415 t=72
+oooo 	火	c=1 d=0.970446 t=72
+p 	这	c=1 d=0.860708 t=72
+pppp 	之	c=1 d=0.97531 t=72
+q 	我	c=1 d=0.839457 t=72
+qqqq 	金	c=1 d=0.951229 t=72
+r 	的	c=1 d=0.826959 t=72
+rrrr 	白	c=1 d=0.937067 t=72
+s 	要	c=1 d=0.794534 t=72
+ssss 	木	c=1 d=0.900325 t=72
+t 	和	c=1 d=0.822835 t=72
+tttt 	禾	c=1 d=0.932394 t=72
+u 	产	c=1 d=0.847894 t=72
+uuuu 	立	c=1 d=0.960789 t=72
+v 	发	c=1 d=0.873716 t=72
+vvvv 	女	c=1 d=0.99005 t=72
+w 	人	c=1 d=0.83527 t=72
+wwww 	人	c=1 d=0.946485 t=72
+x 	经	c=1 d=0.882497 t=72
 xxx 	纟	c=1 d=1 t=72
-y 	主	c=1 d=1 t=38
-yyyy 	言	c=1 d=1 t=63
-encaahh 	工上	c=0 d=0.1 t=28
-encaahh 	工目	c=0 d=0.1 t=53
-encahjg 	工上是	c=0 d=0.1 t=29
-encahjj 	工目日	c=0 d=0.1 t=54
-encahjk 	工上是中	c=0 d=0.1 t=30
-encahjk 	工目日口	c=0 d=0.1 t=55
-encbbvv 	子女	c=0 d=0.1 t=70
-encbnnt 	了发	c=0 d=0.1 t=45
-encbnnx 	了发以经	c=0 d=0.1 t=47
-encbnny 	了发以	c=0 d=0.1 t=46
-encbvcc 	子女又	c=0 d=0.1 t=71
+y 	主	c=1 d=0.843665 t=72
+yyyy 	言	c=1 d=0.955997 t=72
+encaahh 	工上	c=0 d=0.0802519 t=72
+encaahh 	工目	c=0 d=0.0909373 t=72
+encahjg 	工上是	c=0 d=0.0806541 t=72
+encahjj 	工目日	c=0 d=0.0913931 t=72
+encahjk 	工上是中	c=0 d=0.0810584 t=72
+encahjk 	工目日口	c=0 d=0.0918512 t=72
+encbbvv 	子女	c=0 d=0.099005 t=72
+encbnnt 	了发	c=0 d=0.0873716 t=72
+encbnnx 	了发以经	c=0 d=0.0882497 t=72
+encbnny 	了发以	c=0 d=0.0878095 t=72
+encbvcc 	子女又	c=0 d=0.0995012 t=72
 encbvcx 	子女又纟	c=0 d=0.1 t=72
 encccxx 	又纟	c=0 d=0.1 t=72
-encddss 	大木	c=0 d=0.1 t=51
-encdeww 	有人	c=0 d=0.1 t=36
-encdhsv 	在要	c=0 d=0.1 t=26
-encdsaa 	在要工	c=0 d=0.1 t=27
-encdsaa 	大木工	c=0 d=0.1 t=52
-encdsah 	在要工上	c=0 d=0.1 t=28
-encdsah 	大木工目	c=0 d=0.1 t=53
-encdwtr 	有人我	c=0 d=0.1 t=37
-encdwty 	有人我主	c=0 d=0.1 t=38
-enceeww 	月人	c=0 d=0.1 t=61
-encewqq 	月人金	c=0 d=0.1 t=62
-encewqy 	月人金言	c=0 d=0.1 t=63
-encfbdh 	地在	c=0 d=0.1 t=25
-encfdsa 	土大木工	c=0 d=0.1 t=52
-encfdsa 	地在要工	c=0 d=0.1 t=27
-encfdss 	土大木	c=0 d=0.1 t=51
-encfdsv 	地在要	c=0 d=0.1 t=26
-encffdd 	土大	c=0 d=0.1 t=50
-encgfdd 	王土大	c=0 d=0.1 t=50
-encgfdh 	一地在	c=0 d=0.1 t=25
-encgfds 	一地在要	c=0 d=0.1 t=26
-encgfds 	王土大木	c=0 d=0.1 t=51
-encggfb 	一地	c=0 d=0.1 t=24
-encggff 	王土	c=0 d=0.1 t=49
-encgiyl 	不为	c=0 d=0.1 t=41
-encgyyn 	不为这民	c=0 d=0.1 t=43
-encgyyp 	不为这	c=0 d=0.1 t=42
-enchhjg 	上是	c=0 d=0.1 t=29
-enchhjj 	目日	c=0 d=0.1 t=54
-enchjkh 	上是中	c=0 d=0.1 t=30
-enchjkk 	目日口	c=0 d=0.1 t=55
-enchjkl 	上是中国	c=0 d=0.1 t=31
-enchjkl 	目日口田	c=0 d=0.1 t=56
-encifjd 	清朝果丰在有	c=1 d=1 t=22
-enciioo 	水火	c=0 d=0.1 t=66
-enciopn 	水火之已	c=0 d=0.1 t=68
-enciopp 	水火之	c=0 d=0.1 t=67
-encjgkh 	是中	c=0 d=0.1 t=30
-encjjkk 	日口	c=0 d=0.1 t=55
-encjklg 	是中国	c=0 d=0.1 t=31
-encjkll 	日口田	c=0 d=0.1 t=56
-enckhlg 	中国	c=0 d=0.1 t=31
-enckkll 	口田	c=0 d=0.1 t=56
-encmgtk 	同和	c=0 d=0.1 t=33
-encmmtt 	山禾	c=0 d=0.1 t=58
-encmtrd 	同和的有	c=0 d=0.1 t=35
-encmtre 	山禾白月	c=0 d=0.1 t=60
-encmtrq 	同和的	c=0 d=0.1 t=34
-encmtrr 	山禾白	c=0 d=0.1 t=59
-encnabn 	民了	c=0 d=0.1 t=44
-encnbnn 	民了发以	c=0 d=0.1 t=46
-encnbnt 	民了发	c=0 d=0.1 t=45
-encnbvc 	已子女又	c=0 d=0.1 t=71
-encnbvv 	已子女	c=0 d=0.1 t=70
-encnnbb 	已子	c=0 d=0.1 t=69
-encnnxc 	发以经	c=0 d=0.1 t=47
-encntny 	发以	c=0 d=0.1 t=46
-encnyxc 	以经	c=0 d=0.1 t=47
-encoopp 	火之	c=0 d=0.1 t=67
-encopnb 	火之已子	c=0 d=0.1 t=69
-encopnn 	火之已	c=0 d=0.1 t=68
-encpnbb 	之已子	c=0 d=0.1 t=69
-encpnbv 	之已子女	c=0 d=0.1 t=70
-encppnn 	之已	c=0 d=0.1 t=68
-encqqyy 	金言	c=0 d=0.1 t=63
-encqyui 	金言立水	c=0 d=0.1 t=65
-encqyuu 	金言立	c=0 d=0.1 t=64
-encrdwt 	的有人我	c=0 d=0.1 t=37
-encrdww 	的有人	c=0 d=0.1 t=36
-encrewq 	白月人金	c=0 d=0.1 t=62
-encreww 	白月人	c=0 d=0.1 t=61
-encrqde 	的有	c=0 d=0.1 t=35
-encrree 	白月	c=0 d=0.1 t=60
-encsahh 	木工目	c=0 d=0.1 t=53
-encsahh 	要工上	c=0 d=0.1 t=28
-encsahj 	木工目日	c=0 d=0.1 t=54
-encsahj 	要工上是	c=0 d=0.1 t=29
-encssaa 	木工	c=0 d=0.1 t=52
-encsvaa 	要工	c=0 d=0.1 t=27
-enctkrq 	和的	c=0 d=0.1 t=34
-enctrde 	和的有	c=0 d=0.1 t=35
-enctrdw 	和的有人	c=0 d=0.1 t=36
-enctree 	禾白月	c=0 d=0.1 t=60
-enctrew 	禾白月人	c=0 d=0.1 t=61
-enctryg 	我主	c=0 d=0.1 t=38
-encttrr 	禾白	c=0 d=0.1 t=59
-enctyug 	我主产不	c=0 d=0.1 t=40
-enctyut 	我主产	c=0 d=0.1 t=39
-encugyl 	产不为	c=0 d=0.1 t=41
-encugyy 	产不为这	c=0 d=0.1 t=42
-encuioo 	立水火	c=0 d=0.1 t=66
-encuiop 	立水火之	c=0 d=0.1 t=67
-encutgi 	产不	c=0 d=0.1 t=40
-encuuii 	立水	c=0 d=0.1 t=65
+encddss 	大木	c=0 d=0.0900325 t=72
+encdeww 	有人	c=0 d=0.083527 t=72
+encdhsv 	在要	c=0 d=0.0794534 t=72
+encdsaa 	在要工	c=0 d=0.0798516 t=72
+encdsaa 	大木工	c=0 d=0.0904837 t=72
+encdsah 	在要工上	c=0 d=0.0802519 t=72
+encdsah 	大木工目	c=0 d=0.0909373 t=72
+encdwtr 	有人我	c=0 d=0.0839457 t=72
+encdwty 	有人我主	c=0 d=0.0843665 t=72
+enceeww 	月人	c=0 d=0.0946485 t=72
+encewqq 	月人金	c=0 d=0.0951229 t=72
+encewqy 	月人金言	c=0 d=0.0955997 t=72
+encfbdh 	地在	c=0 d=0.0790571 t=72
+encfdsa 	土大木工	c=0 d=0.0904837 t=72
+encfdsa 	地在要工	c=0 d=0.0798516 t=72
+encfdss 	土大木	c=0 d=0.0900325 t=72
+encfdsv 	地在要	c=0 d=0.0794534 t=72
+encffdd 	土大	c=0 d=0.0895834 t=72
+encgfdd 	王土大	c=0 d=0.0895834 t=72
+encgfdh 	一地在	c=0 d=0.0790571 t=72
+encgfds 	一地在要	c=0 d=0.0794534 t=72
+encgfds 	王土大木	c=0 d=0.0900325 t=72
+encggfb 	一地	c=0 d=0.0786628 t=72
+encggff 	王土	c=0 d=0.0891366 t=72
+encgiyl 	不为	c=0 d=0.0856415 t=72
+encgyyn 	不为这民	c=0 d=0.0865022 t=72
+encgyyp 	不为这	c=0 d=0.0860708 t=72
+enchhjg 	上是	c=0 d=0.0806541 t=72
+enchhjj 	目日	c=0 d=0.0913931 t=72
+enchjkh 	上是中	c=0 d=0.0810584 t=72
+enchjkk 	目日口	c=0 d=0.0918512 t=72
+enchjkl 	上是中国	c=0 d=0.0814647 t=72
+enchjkl 	目日口田	c=0 d=0.0923116 t=72
+encifjd 	清朝果丰在有	c=1 d=0.778801 t=72
+enciioo 	水火	c=0 d=0.0970446 t=72
+enciopn 	水火之已	c=0 d=0.0980199 t=72
+enciopp 	水火之	c=0 d=0.097531 t=72
+encjgkh 	是中	c=0 d=0.0810584 t=72
+encjjkk 	日口	c=0 d=0.0918512 t=72
+encjklg 	是中国	c=0 d=0.0814647 t=72
+encjkll 	日口田	c=0 d=0.0923116 t=72
+enckhlg 	中国	c=0 d=0.0814647 t=72
+enckkll 	口田	c=0 d=0.0923116 t=72
+encmgtk 	同和	c=0 d=0.0822835 t=72
+encmmtt 	山禾	c=0 d=0.0932394 t=72
+encmtrd 	同和的有	c=0 d=0.0831104 t=72
+encmtre 	山禾白月	c=0 d=0.0941765 t=72
+encmtrq 	同和的	c=0 d=0.0826959 t=72
+encmtrr 	山禾白	c=0 d=0.0937067 t=72
+encnabn 	民了	c=0 d=0.0869358 t=72
+encnbnn 	民了发以	c=0 d=0.0878095 t=72
+encnbnt 	民了发	c=0 d=0.0873716 t=72
+encnbvc 	已子女又	c=0 d=0.0995012 t=72
+encnbvv 	已子女	c=0 d=0.099005 t=72
+encnnbb 	已子	c=0 d=0.0985112 t=72
+encnnxc 	发以经	c=0 d=0.0882497 t=72
+encntny 	发以	c=0 d=0.0878095 t=72
+encnyxc 	以经	c=0 d=0.0882497 t=72
+encoopp 	火之	c=0 d=0.097531 t=72
+encopnb 	火之已子	c=0 d=0.0985112 t=72
+encopnn 	火之已	c=0 d=0.0980199 t=72
+encpnbb 	之已子	c=0 d=0.0985112 t=72
+encpnbv 	之已子女	c=0 d=0.099005 t=72
+encppnn 	之已	c=0 d=0.0980199 t=72
+encqqyy 	金言	c=0 d=0.0955997 t=72
+encqyui 	金言立水	c=0 d=0.0965605 t=72
+encqyuu 	金言立	c=0 d=0.0960789 t=72
+encrdwt 	的有人我	c=0 d=0.0839457 t=72
+encrdww 	的有人	c=0 d=0.083527 t=72
+encrewq 	白月人金	c=0 d=0.0951229 t=72
+encreww 	白月人	c=0 d=0.0946485 t=72
+encrqde 	的有	c=0 d=0.0831104 t=72
+encrree 	白月	c=0 d=0.0941765 t=72
+encsahh 	木工目	c=0 d=0.0909373 t=72
+encsahh 	要工上	c=0 d=0.0802519 t=72
+encsahj 	木工目日	c=0 d=0.0913931 t=72
+encsahj 	要工上是	c=0 d=0.0806541 t=72
+encssaa 	木工	c=0 d=0.0904837 t=72
+encsvaa 	要工	c=0 d=0.0798516 t=72
+enctkrq 	和的	c=0 d=0.0826959 t=72
+enctrde 	和的有	c=0 d=0.0831104 t=72
+enctrdw 	和的有人	c=0 d=0.083527 t=72
+enctree 	禾白月	c=0 d=0.0941765 t=72
+enctrew 	禾白月人	c=0 d=0.0946485 t=72
+enctryg 	我主	c=0 d=0.0843665 t=72
+encttrr 	禾白	c=0 d=0.0937067 t=72
+enctyug 	我主产不	c=0 d=0.0852144 t=72
+enctyut 	我主产	c=0 d=0.0847894 t=72
+encugyl 	产不为	c=0 d=0.0856415 t=72
+encugyy 	产不为这	c=0 d=0.0860708 t=72
+encuioo 	立水火	c=0 d=0.0970446 t=72
+encuiop 	立水火之	c=0 d=0.097531 t=72
+encutgi 	产不	c=0 d=0.0852144 t=72
+encuuii 	立水	c=0 d=0.0965605 t=72
 encvcxx 	女又纟	c=0 d=0.1 t=72
-encvvcc 	女又	c=0 d=0.1 t=71
-encwqyu 	人金言立	c=0 d=0.1 t=64
-encwqyy 	人金言	c=0 d=0.1 t=63
-encwtyg 	人我主	c=0 d=0.1 t=38
-encwtyu 	人我主产	c=0 d=0.1 t=39
-encwwqq 	人金	c=0 d=0.1 t=62
-encwwtr 	人我	c=0 d=0.1 t=37
-encygut 	主产	c=0 d=0.1 t=39
-encylyp 	为这	c=0 d=0.1 t=42
-encynbn 	这民了	c=0 d=0.1 t=44
-encynbn 	这民了发	c=0 d=0.1 t=45
-encypna 	这民	c=0 d=0.1 t=43
-encyugi 	主产不	c=0 d=0.1 t=40
-encyugy 	主产不为	c=0 d=0.1 t=41
-encyuii 	言立水	c=0 d=0.1 t=65
-encyuio 	言立水火	c=0 d=0.1 t=66
-encyyna 	为这民	c=0 d=0.1 t=43
-encyynb 	为这民了	c=0 d=0.1 t=44
-encyyuu 	言立	c=0 d=0.1 t=64
+encvvcc 	女又	c=0 d=0.0995012 t=72
+encwqyu 	人金言立	c=0 d=0.0960789 t=72
+encwqyy 	人金言	c=0 d=0.0955997 t=72
+encwtyg 	人我主	c=0 d=0.0843665 t=72
+encwtyu 	人我主产	c=0 d=0.0847894 t=72
+encwwqq 	人金	c=0 d=0.0951229 t=72
+encwwtr 	人我	c=0 d=0.0839457 t=72
+encygut 	主产	c=0 d=0.0847894 t=72
+encylyp 	为这	c=0 d=0.0860708 t=72
+encynbn 	这民了	c=0 d=0.0869358 t=72
+encynbn 	这民了发	c=0 d=0.0873716 t=72
+encypna 	这民	c=0 d=0.0865022 t=72
+encyugi 	主产不	c=0 d=0.0852144 t=72
+encyugy 	主产不为	c=0 d=0.0856415 t=72
+encyuii 	言立水	c=0 d=0.0965605 t=72
+encyuio 	言立水火	c=0 d=0.0970446 t=72
+encyyna 	为这民	c=0 d=0.0865022 t=72
+encyynb 	为这民了	c=0 d=0.0869358 t=72
+encyyuu 	言立	c=0 d=0.0960789 t=72

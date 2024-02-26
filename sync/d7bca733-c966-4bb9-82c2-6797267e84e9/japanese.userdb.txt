@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	japanese
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	2
+#@/user_id	d7bca733-c966-4bb9-82c2-6797267e84e9
+ha 	は	c=1 d=1 t=1
+konnichiha 	こんにちは	c=1 d=1 t=2

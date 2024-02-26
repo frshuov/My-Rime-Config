@@ -57,4 +57,5 @@ import_tables:
   - luna_pinyin.website
   - luna_pinyin.mingxing
   - zhwiki
+  - moegirl
 ...
