@@ -29,4 +29,4 @@ patch:
     - ascii_punct
     - simplification
     - zh_hans
-    - emoji_suggestion
+    - emoji_suggestion__patch:
