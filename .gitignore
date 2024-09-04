@@ -15,3 +15,5 @@ build/
 /installation.yaml
 *.userdb/
 test.txt
+
+/default.yaml
